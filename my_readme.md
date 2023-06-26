@@ -24,4 +24,4 @@ Format date
 Make image smaller
 Safely render html
 Revisit html/css structure
-Validation for the number input (positive numbers only)
+Validation for inputs
