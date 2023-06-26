@@ -1,27 +1,13 @@
-Notes
+## Some meta notes:
 
-Header:
-name
-date
-location
+I prioritized my time by focusing on getting the acceptance criteria working.
 
-left column:
-imgUrl
-description_blurb
+## If I had more time, some things I would consider:
 
-right column:
-ticket selection
-total
-name info
-payment info
-button
-
-Strategy:
-Get all of the base components working
-
-To do:
-Format date
-Make image smaller
-Safely render html
-Revisit html/css structure
-Validation for inputs
+- Styling:
+  - Formatting the data on the page to match the mock-up
+  - Making the image smaller
+  - Generally revisiting the html/css structure to make it semantic and accessible
+  - Generally making it look more like the mock up
+- Validation - credit card info, address, positive numbers for tickets
+- Safely rendering the html for description
